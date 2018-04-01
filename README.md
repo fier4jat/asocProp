@@ -1,0 +1,2 @@
+# asocProp
+practica cu Ovidiu
